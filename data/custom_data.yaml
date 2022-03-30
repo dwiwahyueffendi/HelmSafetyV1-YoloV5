@@ -5,5 +5,5 @@ val: dataset/test/images  # val images (relative to 'path') 128 images
 test:  # test images (optional)
 
 # Classes
-nc: 2  # number of classes
+nc: 2 # number of classes
 names: ['Without Helm', 'With Helm']  # class names
