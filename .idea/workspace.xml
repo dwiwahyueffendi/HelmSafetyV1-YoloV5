@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="748c5326-173a-4c62-a8a3-c8c8c64f7fc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/best.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/000540_jpg.rf.069a4fce8c24c711cf017d579f848e11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/000602_jpg.rf.00f038c45c050ac5464ba69b0536070d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/001164_jpg.rf.0ee3a3307d4be49b8fea2b40d837173e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/001226_jpg.rf.13c1849147d4a7b44858af8f0808d234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/001253_jpg.rf.05351d49009d2d4ed10a2f49fcc3ce48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/001834_jpg.rf.073468e60ddb79a482018e72bd7e2a28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/001861_jpg.rf.06bbbafc273b4ea65eab5dd144cc8042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/001927_jpg.rf.0e35745549c7a45e7780aa339f583ab1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/002119_jpg.rf.0624ea5a363c92621eef3b6920e722de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/002224_jpg.rf.078adc35dddab4bfba1498a473ff53d7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/003153_jpg.rf.05841cb753bae8b54a617d9b081d0b8c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/004844_jpg.rf.00f6f05b98fae010d47cdeebd51b057b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/last.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/custom_data.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/custom_data.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/bus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/images/zidane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,14 +36,41 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="273kXgtPlfcPN97rMYKvEaKS8zu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,5 +82,30 @@
       <updated>1648556200803</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
